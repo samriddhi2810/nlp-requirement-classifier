@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# NLTK data
+nltk_data/
+
+# VS Code
+.vscode/
+
+# Results
+results/
+
+# OS files
+.DS_Store
+Thumbs.db
