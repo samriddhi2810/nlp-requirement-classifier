@@ -1,5 +1,5 @@
 # Core
-numpy==2.4.0
+numpy==1.26.4
 pandas==2.3.3
 
 # Classical ML
@@ -10,6 +10,7 @@ joblib==1.5.3
 # NLP
 nltk==3.9.2
 regex==2025.11.3
+sentence-transformers==2.7.0
 
 # Visualization
 matplotlib==3.9.2
