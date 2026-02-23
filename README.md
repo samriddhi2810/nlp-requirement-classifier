@@ -129,8 +129,10 @@ semantic_classifier/
 ├── confusion_matrix.png
 ├── f1_scores.png
 └── README.md
-🚀 How to Run
+
 ```
+
+How to run:
 
 
 Install dependencies:
