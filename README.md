@@ -113,6 +113,7 @@ Macro F1-score is used due to severe class imbalance in both datasets.
 
 Macro F1 treats each class equally and avoids bias toward majority-class dominance.
 
+```
 🧪 Project Structure
 semantic_classifier/
 │
@@ -129,6 +130,8 @@ semantic_classifier/
 ├── f1_scores.png
 └── README.md
 🚀 How to Run
+```
+
 
 Install dependencies:
 
