@@ -1,5 +1,0 @@
-text,label
-"The system shall allow users to reset passwords",functional
-"The application must respond within 2 seconds",performance
-"User data should be encrypted",security
-"The UI should be easy to use",usability
